@@ -1,1 +1,1 @@
-"('second initiative')" 
+second initiative 

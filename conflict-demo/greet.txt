@@ -1,1 +1,2 @@
-"hello from main branch (conflict)!" 
+<<<<<<< HEAD
+"hello from both branches!
